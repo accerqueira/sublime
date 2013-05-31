@@ -6,12 +6,12 @@
             "description" : "Sublime Text plugin for running tests.",
             "author" : "Andre Cerqueira (@accerqueira)",
             "homepage" : "https://github.com/accerqueira/sublime-test-runner",
-            "last_modified" : "2013-05-29 21:56:48",
+            "last_modified" : "2013-05-30 19:59:51",
             "platforms" : {
                 "*" : [
                     {
-                        "version" : "1.0.0",
-                        "url": "https://nodeload.github.com/accerqueira/sublime-test-runner/zip/v1.0.0"
+                        "version" : "1.0.1",
+                        "url": "https://nodeload.github.com/accerqueira/sublime-test-runner/zip/v1.0.1"
                     }
                 ]
             }
