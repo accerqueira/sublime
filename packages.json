@@ -5,10 +5,12 @@
             "name" : "Test Runner",
             "details" : "https://github.com/accerqueira/sublime-test-runner",
             "labels" : [ "testing" ],
-            "releases" : {
-                "sublime_text": "*",
-                "details" : "https://github.com/accerqueira/sublime-test-runner/tags"
-            }
+            "releases" : [
+                {
+                    "sublime_text": "*",
+                    "details" : "https://github.com/accerqueira/sublime-test-runner/tags"
+                }
+            ]
         }
     ]
 }
